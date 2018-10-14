@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/ybf/Desktop/code/C:\\qinjiquan\\init-data\\code-app\\zhbj\\zXingCodeLibs\\build\\intermediates\\res\\merged\\debug\\layout\\capture.xml",
+        "source": "/Users/ybf/Desktop/code/C:\\qinjiquan\\init-data\\code-app\\zhbj\\zXingCodeLibs\\src\\main\\res\\layout\\capture.xml"
+    },
+    {
+        "merged": "/Users/ybf/Desktop/code/C:\\qinjiquan\\init-data\\code-app\\zhbj\\zXingCodeLibs\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "/Users/ybf/Desktop/code/C:\\qinjiquan\\init-data\\code-app\\zhbj\\zXingCodeLibs\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "/Users/ybf/Desktop/code/zXingCodeLibs/build/intermediates/res/merged/debug/layout/activity_main.xml",
+        "source": "/Users/ybf/Desktop/code/zXingCodeLibs/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/Users/ybf/Desktop/code/zXingCodeLibs/build/intermediates/res/merged/debug/layout/capture.xml",
+        "source": "/Users/ybf/Desktop/code/zXingCodeLibs/src/main/res/layout/capture.xml"
+    }
+]

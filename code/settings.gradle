@@ -1,0 +1,1 @@
+include ':app', ':library-slidingmenu', ':library-ViewPagerIndicator', ':screenadapter_picture', ':screenadapter_layout', ':screenadapter_weight', ':screenadapter_dimension', ':screenadapter_code', ':jpushtest', ':xfyuntest01', ':zXingCodeLibs', ':TopNewGrid', ':dynamicgrid', ':dynamic-example', ':360news', ':webview_base', ':gridlayout_test', ':videoplayerlist'

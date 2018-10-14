@@ -1,0 +1,88 @@
+[
+    {
+        "outputFile": "/Users/ybf/Desktop/code/C:\\qinjiquan\\init-data\\code-app\\zhbj\\dynamicgrid\\build\\intermediates\\res\\merged\\androidTest\\debug\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 66,
+                    "endOffset": 117
+                },
+                "from": {
+                    "file": "/Users/ybf/Desktop/code/C:\\qinjiquan\\init-data\\code-app\\zhbj\\dynamicgrid\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 66,
+                        "endOffset": 117
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 122,
+                    "endColumn": 43,
+                    "endOffset": 161
+                },
+                "from": {
+                    "file": "/Users/ybf/Desktop/code/C:\\qinjiquan\\init-data\\code-app\\zhbj\\dynamicgrid\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 122,
+                        "endColumn": 43,
+                        "endOffset": 161
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "/Users/ybf/Desktop/code/dynamicgrid/build/intermediates/res/merged/androidTest/debug/values/values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 66,
+                    "endOffset": 117
+                },
+                "from": {
+                    "file": "/Users/ybf/Desktop/code/dynamicgrid/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 66,
+                        "endOffset": 117
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 122,
+                    "endColumn": 43,
+                    "endOffset": 161
+                },
+                "from": {
+                    "file": "/Users/ybf/Desktop/code/dynamicgrid/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 122,
+                        "endColumn": 43,
+                        "endOffset": 161
+                    }
+                }
+            }
+        ]
+    }
+]
