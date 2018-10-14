@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="F:\androidstudioSDk\AEStest\app\libs\commons-codec-1.9.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="9ce04e34240f674bc72680f8b843b1457383161a">
+        <dex dex="F:\androidstudioSDk\AEStest\app\build\intermediates\pre-dexed\debug\commons-codec-1.9_e1326b9d05f6047c9e0d6146c5f916ce20c62ebd.jar" />
+    </item>
+
+</items>
